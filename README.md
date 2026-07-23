@@ -1,4 +1,4 @@
-# vengeance-mc-cheat-1.8.9
+<img width="1098" height="627" alt="image" src="https://github.com/user-attachments/assets/fc43918b-0cc1-4351-a1e8-fb48ad9448a2" /># vengeance-mc-cheat-1.8.9
 
 Originally this client's purpose was to bring the cheating community of 1.8.9 to it's knees and make a gap between everyday clients and top tier clients like vengeance.
 
@@ -263,4 +263,13 @@ the decrypted payload is then injected into minecraft, but the cheat isn't stand
 if there's no active valid session the cheat's first and only job is to crash the game instantly, making a dumped payload useless without a live authenticated session backed by the real server, and even the server side doesn't fully trust the panel/bot layer either, since that's historically the easier target than the client, so the auth backend and discord bot run on separate hardened access with logging on every login/role-check call
 
 if you are interested in working with me, my discord: ignrare
-enjoy.
+
+Main UI
+<img width="811" height="536" alt="image" src="https://github.com/user-attachments/assets/e2807a60-4f8b-4ff1-a538-2f07fb0545b1" />
+
+Slinky inspired
+<img width="1082" height="619" alt="image" src="https://github.com/user-attachments/assets/15b23ec7-6355-422a-840d-52407870d0cc" />
+
+Vape V4 inspired
+<img width="1098" height="627" alt="image" src="https://github.com/user-attachments/assets/4f600f79-17a3-4cfa-acc8-dc92e0efa02e" />
+

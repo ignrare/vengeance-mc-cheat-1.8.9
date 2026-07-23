@@ -1,0 +1,75 @@
+PLACEHOLDER MODULES LIST
+========================
+
+This list contains all modules that are currently only placeholders (UI only, no actual implementation):
+
+COMBAT PLACEHOLDERS:
+-------------------
+- ~~S-Tap (sTapEnabled)~~ - Releases sprint briefly on hit for extra knockback ✅ IMPLEMENTED
+- ~~W-Tap (wTapEnabled)~~ - Releases W key briefly on hit for sprint reset knockback ✅ IMPLEMENTED
+- ~~Bow Aimbot (bowAimbotEnabled)~~ - Automatically aims bow shots at players with trajectory prediction ✅ IMPLEMENTED
+
+MOVEMENT PLACEHOLDERS:
+----------------------
+- Spider (spiderEnabled) - Climb walls like a spider
+- SafeWalk (safeWalkEnabled) - Prevents you from walking off block edges
+- Reverse Step (reverseStepEnabled) - Instantly step down blocks
+- BouncySlime (bouncySlimeEnabled) - Bounce higher on slime blocks
+- FastStop (fastStopEnabled) - Instantly stop moving when releasing keys
+- Glide (glideEnabled) - Slow your falling speed like a glider
+- Flight (flightEnabled) - Fly in survival mode
+- Air Jump (airJumpEnabled) - Jump while in the air
+- High Jump (highJumpEnabled) - Jump higher than normal
+
+VISUALS PLACEHOLDERS:
+---------------------
+- Freecam (freecamEnabled) - Free camera movement
+- FullBright (fullBrightEnabled) - See in the dark
+- NoHurtCam (noHurtCamEnabled) - Disable hurt camera shake
+- Zoom (zoomEnabled) - Zoom in for better visibility
+- ArmorESP (armorEspEnabled) - See player armor through walls
+- ItemESP (itemEspEnabled) - See items on the ground through walls
+- HoleESP (holeEspEnabled) - Highlight safe/unsafe holes
+
+NETWORK PLACEHOLDERS:
+---------------------
+- Blink (blinkEnabled) - Stop sending packets temporarily
+- Timer (timerEnabled) - Speed up/slow down game time
+- FakeLag (fakeLagEnabled) - Artificial lag for advantage
+
+UTILITIES PLACEHOLDERS:
+-----------------------
+- Teams (teamsEnabled) - Distinguish teammates from enemies
+- Friends (friendsEnabled) - Don't attack friends
+- AutoSword (autoSwordEnabled) - Automatically switch to sword
+- AntiVoid (antiVoidEnabled) - Prevent falling into void
+- MiddleClickFriend (middleClickFriendEnabled) - Add friends by middle-clicking
+- AntiBot (antiBotEnabled) - Ignore server bots
+- AutoArmor (autoArmorEnabled) - Automatically equip best armor
+- InventoryManager (inventoryManagerEnabled) - Manage inventory automatically
+
+MISC PLACEHOLDERS:
+------------------
+- BreadCrumbs (breadCrumbsEnabled) - Leave a colored trail behind you
+- AntiAFK (antiAfkEnabled) - Prevent AFK kick by performing actions
+- AntiBadEffects (antiBadEffectsEnabled) - Remove negative potion effects
+- Panic (panicEnabled) - Instantly disable all modules
+- PingSpoof (pingSpoofModEnabled) - Spoof your ping to server
+- Reconnect (reconnectEnabled) - Automatically reconnect when disconnected
+- StaffNotifier (staffNotifierEnabled) - Notify when staff members join
+- NoRotate (noRotateEnabled) - Block server-forced rotation packets
+- AntiCactus (antiCactusEnabled) - Prevent damage from cactus blocks
+
+TOTAL PLACEHOLDER MODULES: 31
+
+All of these modules have:
+- UI elements (checkboxes, sliders, keybinds)
+- Variable declarations
+- Menu integration
+- BUT NO ACTUAL FUNCTIONALITY IMPLEMENTED
+
+Implemented Modules:
+------------------
+✅ S-Tap - Advanced sprint release for knockback (Based on Rise, Augustus, Flux)
+✅ W-Tap - W key release for sprint reset knockback (Based on Rise, Rage)
+✅ Bow Aimbot - Trajectory prediction and auto-shoot (Based on Flux, LegacyClient)

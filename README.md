@@ -9,7 +9,7 @@ the loader is not included, I used a simple bytecode injection from a .hpp file 
 if you are interested in working with me, my discord: ignrare
 
 Vengeance consists of:
-71 modules, extensive customisability, 3 GUIs (2nd and 3rd are not finished but usable), ability to recolor any part of the main GUI, top-grade security
+73 modules, extensive customisability, 3 GUIs (2nd and 3rd are not finished but usable), ability to recolor any part of the main GUI, top-grade security
 
 ## Module List
 

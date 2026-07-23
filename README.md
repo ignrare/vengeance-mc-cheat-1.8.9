@@ -7,7 +7,6 @@ Vengeance wasnt fully custom made, when I started making it back in february I s
 the loader is not included, I used a simple bytecode injection from a .hpp file inside the loader itself, so it was just an exe, nothing else, and it injected instantly, didnt had to wait for tens of seconds, since the loader is not included, therefore there wont be any security measures you may need to bypass if you try to make this build instead of copying logic. **the security of vengeance is explained at the bottom if you're interested.**
 
 if you are interested in working with me, my discord: ignrare
-enjoy.
 
 Vengeance consists of:
 71 modules, extensive customisability, 3 GUIs (2nd and 3rd are not finished but usable), ability to recolor any part of the main GUI, top-grade security

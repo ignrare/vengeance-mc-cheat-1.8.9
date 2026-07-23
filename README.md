@@ -118,7 +118,7 @@ Vengeance consists of:
 |---------|-------------|
 | **ArrayList** | On-screen enabled modules list with customizable colors, position, background, accent bar, rainbow mode, watermark (name/version/FPS/keybinds) |
 | **Keybinds** | Configurable hotkeys for all modules |
-| **UI Presets** | Built-in themes: Vengeance, VapeV4, Slinky, XClient |
+| **UI Presets** | Built-in themes: Vengeance, V4-inspired, Slinky-inspired|
 | **Theme Customization** | Full color scheme control via UITheme namespace |
 | **Safe Unload** | Clean DLL ejection with thread cleanup |
 

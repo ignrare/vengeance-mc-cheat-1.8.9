@@ -1,4 +1,4 @@
-<img width="1098" height="627" alt="image" src="https://github.com/user-attachments/assets/fc43918b-0cc1-4351-a1e8-fb48ad9448a2" /># vengeance-mc-cheat-1.8.9
+# vengeance-mc-cheat-1.8.9
 
 Originally this client's purpose was to bring the cheating community of 1.8.9 to it's knees and make a gap between everyday clients and top tier clients like vengeance.
 
